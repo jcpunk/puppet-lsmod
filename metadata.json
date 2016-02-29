@@ -1,6 +1,6 @@
 {
   "name": "jcpunk-lsmod",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Pat Riehecky <riehecky@fnal.gov>",
   "summary": "Provides facts with the content of lsmod",
   "license": "GPL-3.0+",
